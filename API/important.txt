@@ -1,0 +1,3 @@
+1st do the dbcontext scaffold of a database
+
+command: dotnet ef dbcontext scaffold "Server=LAPTOP-MDIC2GH7;Database=northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
